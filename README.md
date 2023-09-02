@@ -1,16 +1,33 @@
-### Hi there 👋
+# Eduardo Fettermann
 
-<!--
-**eduardofettermann/eduardofettermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, mundo! Meu nome é Eduardo Fettermann, sou um desenvolvedor back-end apaixonado por tecnologia. Estou em busca constante de conhecimento e melhorias.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Git
+- GitHub
+
+## Projetos Destacados
+
+- [Calculadora de IMC](https://github.com/eduardofettermann/calculadora-imc): Um projeto simples desenvolvido com JavaScript para praticar lógica de programação.
+
+## Entre em Contato
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardo-fettermann/" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ddf.dev" target="_blank" rel="noopener noreferrer">
+    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" width="48%" 
+       src="https://github-readme-stats.vercel.app/api?username=eduardofettermann&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" width="48%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofettermann&layout=compact&langs_count=7&theme=dark"/>
+</div>
