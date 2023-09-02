@@ -1,6 +1,6 @@
 # Eduardo Fettermann
 
-Olá, mundo! Meu nome é Eduardo Fettermann, sou um desenvolvedor back-end apaixonado por tecnologia. Estou em busca constante de conhecimento e melhorias.
+Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixonado por tecnologia. Estou em busca constante de conhecimento e melhorias.
 
 ## Habilidades
 
