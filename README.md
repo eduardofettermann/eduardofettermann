@@ -10,7 +10,7 @@ Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixo
 
 ## Projetos
 
-- [Calculadora de IMC](https://github.com/eduardofettermann/calculadora-imc): Um projeto simples desenvolvido com JavaScript para praticar lógica de programação.
+- [Calculadora de IMC](https://github.com/eduardofettermann/calculadora-imc) - Um projeto simples desenvolvido com JavaScript para praticar lógica de programação.
 
 ## Entre em Contato
 
