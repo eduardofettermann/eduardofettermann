@@ -2,13 +2,13 @@
 
 Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixonado por tecnologia. Estou em busca constante de conhecimento e melhorias.
 
-## Habilidades
+## Skills
 
 - Java
 - Git
 - GitHub
 
-## Projetos Destacados
+## Projetos
 
 - [Calculadora de IMC](https://github.com/eduardofettermann/calculadora-imc): Um projeto simples desenvolvido com JavaScript para praticar lógica de programação.
 
