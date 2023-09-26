@@ -27,7 +27,5 @@ Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixo
 
 <div align="center">
   <img height="180em" width="48%" 
-       src="https://github-readme-stats.vercel.app/api?username=eduardofettermann&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" width="48%" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofettermann&layout=compact&langs_count=7&theme=dark"/>
 </div>
