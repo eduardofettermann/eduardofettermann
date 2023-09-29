@@ -5,6 +5,7 @@ Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixo
 ## Skills
 
 - Java
+- Spring
 - Git
 - GitHub
 
