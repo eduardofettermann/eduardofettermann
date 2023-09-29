@@ -25,7 +25,9 @@ Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixo
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180em" width="48%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardofettermann&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<a href="https://github.com/eduardofettermann">
+  <img height=200 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardofettermann&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardofettermann&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
