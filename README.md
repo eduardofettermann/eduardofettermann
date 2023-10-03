@@ -19,7 +19,7 @@ Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixo
   <a href="https://www.linkedin.com/in/eduardo-fettermann/" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ddf.dev" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/efettermann" target="_blank" rel="noopener noreferrer">
     <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
