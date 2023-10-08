@@ -6,6 +6,7 @@ Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixo
 
 - Java
 - Spring
+- Testes Unitários
 - Git
 - GitHub
 
