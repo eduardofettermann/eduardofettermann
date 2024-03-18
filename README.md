@@ -1,29 +1,42 @@
-# Eduardo Fettermann
+# Olá, mundo! Eu sou Eduardo Fettermann!
 
-Olá, mundo! Meu nome é Eduardo Fettermann, sou desenvolvedor back-end e apaixonado por tecnologia. Estou em busca constante de conhecimento e melhorias.
+🌐 **Sobre Mim**
+Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas. Membro ativo da comunidade Geração Caldeira do Instituto Caldeira e certificado AWS Cloud Practitioner.
 
-## Skills
+🚀 **Aprendizado e Desenvolvimento**
+Apaixonado por aprender e evoluir, estou estudando Backend com tecnologias como RabbitMQ, AWS, Docker e Kubernetes, me tornando mais competente.
 
-- Java
-- Spring
-- Testes Unitários
-- Git
-- GitHub
+💼 **Em Busca de Oportunidades**
+Procurando desafios como Desenvolvedor Backend ou Fullstack. Aberto a novas tecnologias e sempre pronto para crescer.
 
-## Projetos
+🛠️ **Competências Técnicas**
+- Spring Framework
+- Testes Unitários (JUnit e Mockito)
+- APIs REST
+- Versionamento (Git e GitHub)
+- Bancos de Dados Relacionais (PostgreSQL e MySQL)
+- AWS (EC2 e RDS)
+- Front-end (HTML e CSS)
 
-- [Calculadora de IMC](https://github.com/eduardofettermann/calculadora-imc) - Um projeto simples desenvolvido com JavaScript para praticar lógica de programação.
+🌀 **Outras Habilidades**
+- Metodologias Ágeis (Scrum, Agile e Kanban)
+- Solução de Problemas Inéditos
+- Aprendizado Contínuo
+- Comunicação e Colaboração
 
-## Entre em Contato
+🎬 **Hobbies**
+- Assistir filmes e séries
+- Resolver desafios no HackerRank
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eduardo-fettermann/" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/efettermann" target="_blank" rel="noopener noreferrer">
-    <img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
+🌍 **Bora se conectar**
+- Se você tem uma oportunidade ou quer trocar ideias sobre tecnologia, vamos conversar! 📬
+
+**LinkedIn:** [Eduardo Fettermann](https://www.linkedin.com/in/eduardo-fettermann)
+
+---
+
+
+
 
 ## GitHub Stats
 
