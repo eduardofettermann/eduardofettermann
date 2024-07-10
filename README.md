@@ -24,10 +24,6 @@ Procurando desafios como Desenvolvedor Backend ou Fullstack. Aberto a novas tecn
 - Aprendizado Contínuo
 - Comunicação e Colaboração
 
-🎬 **Hobbies**
-- Assistir filmes e séries
-- Resolver desafios no HackerRank
-
 🌍 **Bora se conectar**
 - Se você tem uma oportunidade ou quer trocar ideias sobre tecnologia, vamos conversar! 📬
 
