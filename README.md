@@ -33,15 +33,3 @@ Engenheiro de Software na Appmax, estudante de Análise e Desenvolvimento de Sis
 **LinkedIn:** [Eduardo Fettermann](https://www.linkedin.com/in/eduardo-fettermann)
 
 ---
-
-
-
-
-## GitHub Stats
-
-<a href="https://github.com/eduardofettermann">
-  <img height=170 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eduardofettermann&show_icons=true&theme=dark&include_all_commits=true&count_private=true&layout=compact"/>
-</a>
-<a href="https://github.com/eduardofettermann">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardofettermann&layout=compact&theme=dark&langs_count=8&card_width=320" />
-</a>
