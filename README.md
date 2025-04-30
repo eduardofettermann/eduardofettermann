@@ -1,30 +1,33 @@
 # Olá, mundo! Eu sou Eduardo Fettermann!
 
-🌐 **Sobre Mim**
-Desenvolvedor de Software e estudante de Análise e Desenvolvimento de Sistemas. Membro ativo da comunidade Geração Caldeira do Instituto Caldeira e certificado AWS Cloud Practitioner.
+## 👨🏽‍💻 **Sobre Mim**
 
-🚀 **Aprendizado e Desenvolvimento**
-Apaixonado por aprender e evoluir, estou estudando Backend com tecnologias como RabbitMQ, AWS, Docker e Kubernetes, me tornando mais competente.
+Engenheiro de Software na Appmax, estudante de Análise e Desenvolvimento de Sistemas no 3º Semestre, ex-aluno ativo da comunidade do [Geração Caldeira](https://www.geracaocaldeira.org/), programa do [Instituto Caldeira](https://institutocaldeira.org.br/) e eterno aprendiz🎓
 
-💼 **Em Busca de Oportunidades**
-Procurando desafios como Desenvolvedor Backend ou Fullstack. Aberto a novas tecnologias e sempre pronto para crescer.
-
-🛠️ **Competências Técnicas**
-- Spring Framework
-- Testes Unitários (JUnit e Mockito)
+## 🛠️ **Competências Técnicas**
+- Docker
+- Spring Framework e Java
+- Laravel e PHP
+- Testes Unitários (JUnit, Mockito, Jest, Pest e PHPUnit)
+- Boas práticas (SOLID, DRY, KISS, YAGNY, Object Calisthenics, Clean Code)
+- Metodologias de desenvolvimento (TDD, EDA e BDD) 
 - APIs REST
 - Versionamento (Git e GitHub)
-- Bancos de Dados Relacionais (PostgreSQL e MySQL)
+- Banco de Dados SQL (PostgreSQL e MySQL)
+- Banco de dado NoSQL (MongoDB)
 - AWS (EC2 e RDS)
-- Front-end (HTML e CSS)
+- ELK
+- Redis
+- Mensageria (RabbitMQ)
+- Front-end (Vue.js, React.js e TypeScript)
 
-🌀 **Outras Habilidades**
-- Metodologias Ágeis (Scrum, Agile e Kanban)
+## 🌀 **Outras Habilidades**
+- Metodologias Ágeis (Scrum, Agile, Kanban e Shape-up)
 - Solução de Problemas Inéditos
 - Aprendizado Contínuo
 - Comunicação e Colaboração
 
-🌍 **Bora se conectar**
+## 🌍 **Bora se conectar**
 - Se você tem uma oportunidade ou quer trocar ideias sobre tecnologia, vamos conversar! 📬
 
 **LinkedIn:** [Eduardo Fettermann](https://www.linkedin.com/in/eduardo-fettermann)
