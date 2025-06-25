@@ -1,6 +1,6 @@
 # Olá, mundo! Eu sou Eduardo Fettermann!
 
-## 👨🏽‍💻 **Um pouco sobre Mim**
+## 👨🏽‍💻 **Sobre mim**
 
 Desenvolvedor de Software na Alura, estudante de Análise e Desenvolvimento de Sistemas no 3º Semestre na Unisinos, ex-aluno ativo da comunidade do [Geração Caldeira](https://www.geracaocaldeira.org/), programa do [Instituto Caldeira](https://institutocaldeira.org.br/) e eterno aprendiz🎓
 
